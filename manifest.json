@@ -1,0 +1,38 @@
+{
+  "name": "Webz Us",
+  "short_name": "webzus",
+  "start_url": "https://www.webz.us",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "hanya sebuah blog pribadi",
+  "icons": [{
+    "src": "http://2.bp.blogspot.com/-P0IBs4DqaL0/X7Cj102Yi5I/AAAAAAAAAAc/Iv3VJCeI4KgCu368BNhPkR0gUKReffBaQCK4BGAYYCw/s48/Logopit_1604512662091.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-P0IBs4DqaL0/X7Cj102Yi5I/AAAAAAAAAAc/Iv3VJCeI4KgCu368BNhPkR0gUKReffBaQCK4BGAYYCw/s72/Logopit_1604512662091.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-P0IBs4DqaL0/X7Cj102Yi5I/AAAAAAAAAAc/Iv3VJCeI4KgCu368BNhPkR0gUKReffBaQCK4BGAYYCw/s96/Logopit_1604512662091.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-P0IBs4DqaL0/X7Cj102Yi5I/AAAAAAAAAAc/Iv3VJCeI4KgCu368BNhPkR0gUKReffBaQCK4BGAYYCw/s144/Logopit_1604512662091.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-P0IBs4DqaL0/X7Cj102Yi5I/AAAAAAAAAAc/Iv3VJCeI4KgCu368BNhPkR0gUKReffBaQCK4BGAYYCw/s168/Logopit_1604512662091.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-P0IBs4DqaL0/X7Cj102Yi5I/AAAAAAAAAAc/Iv3VJCeI4KgCu368BNhPkR0gUKReffBaQCK4BGAYYCw/s192/Logopit_1604512662091.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-P0IBs4DqaL0/X7Cj102Yi5I/AAAAAAAAAAc/Iv3VJCeI4KgCu368BNhPkR0gUKReffBaQCK4BGAYYCw/s512/Logopit_1604512662091.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
